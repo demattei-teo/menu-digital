@@ -1,0 +1,104 @@
+{
+  "promociones": [
+    {
+      "url": "menu-img/aros_cebolla.png",
+      "name": "Smoke + Aros de cebollas",
+      "description": "Lunes y Martes(Solo mediodia)",
+      "price": "$1600"
+    },
+    {
+      "url": "menu-img/mega-chum.png",
+      "name": "Mega-Chum + Aros de cebolla",
+      "description": "Miercoles y Jueves(solo mediodia)",
+      "price": "$3200"
+    },
+    {
+      "url": "menu-img/mega-chum.png",
+      "name": "2 chum hell + Papas con aros de cebolla",
+      "description": "Sabado y Domingo(Todo el dia)",
+      "price": "$5800"
+    },
+    {
+      "url": "menu-img/chum-hell.jpg",
+      "name": "2 Golosa doble + Papas con Cheddar",
+      "description": "Hamburguesa doble, aros de cebolla",
+      "price": "$5200"
+    }
+  ],
+  "hamburguesas": [
+    {
+      "url": "menu-img/chum-hell.jpg",
+      "name": "Mega-Chum",
+      "description": "Triple Carne, Cheddar, Bacon, Salsa mostaza, onion.",
+      "price": "$1800"
+    },
+    {
+      "url": "menu-img/chum-burguer.jpg",
+      "name": "Chum-burguer",
+      "description": "Doble Carne, Cheddar, Bacon, pepino agridulce, cebolla crispy, salsa de ajo",
+      "price": "$1800"
+    },
+    {
+      "url": "menu-img/Golosa.jpg",
+      "name": "La golosa",
+      "description": "Doble Carne, Cheddar, con cebollas a la plancha y manteca deliciosa.",
+      "price": "$1900"
+    },
+    {
+      "url": "menu-img/Golosa.jpg",
+      "name": "La golosa doble",
+      "description": "triple Carne,Cheddar, con cebollas a la plancha y manteca deliciosa y bacon.",
+      "price": "$2100"
+    },
+    {
+      "url": "menu-img/chum-hell.jpg",
+      "name": "chum hell",
+      "description": "Doble Carne, cheddar, bacon, salsa hell y pickle de cebolla.",
+      "price": "$1700"
+    },
+    {
+      "url": "menu-img/smoke.jpg",
+      "name": "Smoke",
+      "description": "Doble Carne, Provolone, Bacon con cebollas ahumadas, salsa BBQ",
+      "price": "$2000"
+    },
+    {
+      "url": "menu-img/veggeta.jpg",
+      "name": "Super veggeta",
+      "description": "Medallón de porotos negros, quinoa, cilantro, tomate, lechuga morada, salsa de berenjena ahumada.",
+      "price": "$1900"
+    },
+    {
+      "url": "menu-img/papas_cheddar.jpg",
+      "name": "Papas con Cheddar y Bacon",
+      "description": "porcion de papas, aros de cebolla, bastones de muzzarella, bastones de pollo",
+      "price": "$1700"
+    },
+    {
+      "url": "menu-img/aros_cebolla.png",
+      "name": "Papas con aros de cebolla y bacon ",
+      "description": "porcion de papas fritas, con cheddar y bacon",
+      "price": "$2000"
+    }
+  ],
+  "adicionales": [
+    {
+      "name": "Agregado Toping",
+      "description": "Cebolla caramelizada,Bacon, Huevo Frito, Chum Salsa",
+      "price": "$200"
+    },
+    {
+      "name": "Cerveza",
+      "price": "$550"
+    },
+    {
+      "name": "Gaseosa",
+      "price": "$300"
+    },
+    {
+      "name": "Agregado Carne",
+      "description": "125 Gr. cada medallón",
+      "price": "$200"
+    }
+  ]
+}
